@@ -4,4 +4,5 @@ Classification gutenberg books according to their authors.
 * Feature Engineering
 * Modelling
 * Evaluation
+* Bias and Varaince tradeoff analysis
 * Error analysis
